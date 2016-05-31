@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-panel-example",
+  "version": "1.0.0",
+  "description": "Example for chrome extension panel feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudolph-Miller/chrome-extension-panel-example.git"
+  },
+  "author": "Rudolph-Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rudolph-Miller/chrome-extension-panel-example/issues"
+  },
+  "homepage": "https://github.com/Rudolph-Miller/chrome-extension-panel-example#readme"
+}
